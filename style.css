@@ -11,7 +11,7 @@
     justify-content: flex-start;
     height: auto;  
     min-height: 100vh; 
-    background-color: hsl(0, 0%, 100%);
+    background-color: #dddddd38;
     padding-top: 2rem;
     padding-bottom: 2rem;
 }
@@ -46,6 +46,7 @@
     font-style: normal;
 }
 .teambuilder{
+    background-color: hsl(0, 0%, 100%);
     border-top: 5px solid hsl(0, 78%, 62%);
     padding: 20px;
     margin-top: 70px;
@@ -80,6 +81,7 @@
 }
 
 .karma{
+    background-color: hsl(0, 0%, 100%);
     margin-top: 20px;
     width: 230px;
     height: 180px;
@@ -114,6 +116,7 @@
 }
 
 .calculator{
+    background-color: hsl(0, 0%, 100%);
     margin-left: 525px;
     margin-top: -400px;
     width: 230px;
@@ -149,6 +152,7 @@
 }
 
 .supervisor{
+    background-color: hsl(0, 0%, 100%);
     margin-right: 525px;
     margin-top: -400px;
     width: 230px;
